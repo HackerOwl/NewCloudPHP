@@ -1,3 +1,5 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+echo "Nama : Angeline Natasya Liong\n ";
+echo "NIM : 51022002\n ";
+echo "Jurusan : Sistem Informasi\n ";
